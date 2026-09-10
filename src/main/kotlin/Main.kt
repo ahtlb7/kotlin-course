@@ -1,4 +1,4 @@
 fun main() {
-    val message = "Привет, мир! "
+    val message = "Привет, мир!"
     println(message)
 }
