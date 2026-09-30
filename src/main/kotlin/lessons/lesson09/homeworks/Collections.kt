@@ -1,7 +1,6 @@
 package lessons.lesson09.homeworks
 
 // Работа с массивами Array
-
 // 1. Массив из 5 целых чисел, значения от 1 до 5
 fun taskArray1() {
     val numbers = arrayOf(1, 2, 3, 4, 5)
@@ -90,7 +89,6 @@ fun taskArray10(array: Array<String>, query: String) {
 }
 
 // Работа со списками List
-
 // 1. Пустой неизменяемый список Int
 fun taskList1() {
     val empty: List<Int> = emptyList()
@@ -180,7 +178,6 @@ fun taskList11() {
 }
 
 // Работа с Множествами Set
-
 // 1. Пустое неизменяемое множество Int
 fun taskSet1() {
     val empty: Set<Int> = emptySet()
